@@ -369,7 +369,13 @@ $$
 
 $$
 Var[x] = n^{2}p^{2}-np^{2} + np - n^{2}p^{2}
-$$ $$Var[x] = np-np^{2}$$ $$Var[x] = np(1-p)$$ $$\sigma^{2} = npq$$
+$$ 
+
+$$Var[x] = np-np^{2}$$ 
+
+$$Var[x] = np(1-p)$$ 
+
+$$\sigma^{2} = npq$$
 
 Q.E.D.
 
